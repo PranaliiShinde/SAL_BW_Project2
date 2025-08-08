@@ -2,7 +2,7 @@
 
 > A data-driven project that **scrapes inspirational quotes** from [QuotesToScrape.com](http://quotes.toscrape.com/), stores them in a structured format, and performs **insightful visualizations** to uncover patterns in quotes, authors, and tags.
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-BeautifulSoup4-orange.svg)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Pandas-green.svg)
 ![Visualization](https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn-yellow.svg)
