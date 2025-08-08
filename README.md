@@ -1,4 +1,4 @@
-# 🌟 QuoteVerse – Mining and Visualizing Inspiration
+# 🌟 QuoteVerse – Mining and Visualizing
 
 > A data-driven project that **scrapes inspirational quotes** from [QuotesToScrape.com](http://quotes.toscrape.com/), stores them in a structured format, and performs **insightful visualizations** to uncover patterns in quotes, authors, and tags.
 
